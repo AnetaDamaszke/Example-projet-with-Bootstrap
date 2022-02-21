@@ -39,3 +39,21 @@ p {
 .top-button {
     margin-top: 1.5rem;
 }
+
+/** Introduction **/
+
+.introduction {
+    padding: 50px 0 60px 0;
+}
+
+.introduction-header {
+    margin-bottom: 70px;
+}
+
+.introduction-item {
+    padding: 0 2rem;
+}
+
+.introduction-item-header {
+    margin: 1.5rem 0 .7rem 0;
+}
